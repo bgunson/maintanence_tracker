@@ -1,10 +1,14 @@
-/* body {
-  background-color: #222c30;  
+#mainContent {
+  padding: 25px;
 }
- */
 
+#pageTitle {
+  font-style: oblique;
+  font-weight: 800;
+  font-size: larger;
+}
 
-.title {
-  background-color: white;
-  padding: 20px;
+#editVehicle {
+   color: whitesmoke;
+   padding: 5px;
 }
